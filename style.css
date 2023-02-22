@@ -1,0 +1,13 @@
+.head{
+    font-weight: 20%;
+    font-style:italic;
+    padding:20px;
+    margin: 5%;
+    border:black solid;
+}
+.main{
+    border:red dotted;
+}
+
+
+
